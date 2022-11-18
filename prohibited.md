@@ -1,6 +1,6 @@
 # LAPRASユーザーコミュニティ コミュニティ・ガイドライン
 
-コミュニティ・ガイドライン本文は[こちら](https://github.com/lapras-inc/lapras-user-community/edit/main/README.md)
+コミュニティ・ガイドライン本文は[こちら](https://github.com/lapras-inc/lapras-user-community/blob/main/README.md)
 
 ## 禁止事項別添
 
