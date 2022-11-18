@@ -35,7 +35,7 @@ LAPRAS公式の見解はUserSuccessTeamLAPRASアカウントからの投稿の�
 本人の承諾なく個人情報を特定、開示、漏洩するもの
 当社または第三者の著作権、肖像権、知的財産権を侵害するもの
 宣伝等の商業的内容や人材採用目的のもの
-その他、当社が当コミュニティの目的と照らして不適当と判断した内容（例は[こちら](https://github.com/lapras-inc/lapras-user-community/edit/main/prohibited.md)）
+その他、当社が当コミュニティの目的と照らして不適当と判断した内容（例は[こちら](https://github.com/lapras-inc/lapras-user-community/blob/main/prohibited.md)）
 
 ### 免責事項
 当社は、ユーザーにより投稿されたコンテンツについて一切の責任を負いません
