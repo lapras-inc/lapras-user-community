@@ -1,3 +1,5 @@
+https://github.com/lapras-inc/lapras-user-community 改訂版はこちらを確認
+
 # LAPRASユーザーコミュニティ コミュニティ・ガイドライン (Version 1.0)
 
 ## はじめに
@@ -26,7 +28,7 @@ LAPRASからは、ユーザーの皆様へのご意見募集や、新しい試�
 ## ご参加にあたっての注意事項
 - 本コミュニティに投稿可能なのはLAPRASユーザーもしくはLAPRAS運営スタッフのみとなります。
 - LAPRASに登録いただいているGitHubアカウントにて投稿をお願いします
-- 個別のご相談や不具合についてのお問合せ、プライバシーや機密情報に関わる内容はLAPRASのサービス内からお問合せください（個別のお問合せは[こちら](https://lapras.com/home?inquiry)）
+- 個別のご相談や不具合についてのお問合せ、プライバシーや機密情報に関わる内容はLAPRASのサービス内からお問合せください（個別のお問合せは[こちら](https://lapras.com/home?lapras-support-chat)）
 - LAPRAS公式の見解はUserSuccessTeamLAPRASアカウントからの投稿のみとなります
 - お寄せいただいたご要望に関しましては、必ずしも対応をお約束できない場合がありますのでご了承ください
 - コミュニティ内の発言等を故意にLAPRAS利用企業に提供することはありませんが、Issuesへのコントリビュート等は通常のLAPRASのGitHubのクロール範囲となる可能性がありますのでご留意ください
@@ -47,7 +49,7 @@ LAPRASからは、ユーザーの皆様へのご意見募集や、新しい試�
 ## 問い合わせ窓口
 LAPRASサービス内のサポートチャット内の「改善要望または不具合の報告をしたい」からご連絡ください。
 
-[LAPRASにログインしてサポートチャットを開く](https://lapras.com/home?inquiry)
+[LAPRASにログインしてサポートチャットを開く](https://lapras.com/home?lapras-support-chat)
 
 
 ## 規約の変更
@@ -55,5 +57,6 @@ LAPRASサービス内のサポートチャット内の「改善要望または�
 
 
 
-Version 1.0<br>
+Version 1.0
+<br>
 最終更新日 2022年11月25日
