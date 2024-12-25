@@ -21,7 +21,7 @@ LAPRASからは、ユーザーの皆様へのご意見募集や、新しい試�
 - 他のコミュニティ参加者との交流や活発な意見交換、LAPRASへのご意見などを歓迎します。
 - 各トピックにご自由にコメント、リアクションしてください。まずは既に立ち上がっているトピックへコメントしてみてください！
 - 新しいトピックを自由に立てることができます。
-- GitHubコミュニティの行動規範（https://docs.github.com/ja/site-policy/github-terms/github-community-code-of-conduct）に則って投稿をお願いします
+- [GitHubコミュニティの行動規範](https://docs.github.com/ja/site-policy/github-terms/github-community-code-of-conduct)に則って投稿をお願いします
 
 
 ## ご参加にあたっての注意事項
